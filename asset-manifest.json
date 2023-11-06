@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/card-payment/static/css/main.3995c954.css",
+    "main.js": "/card-payment/static/js/main.751d7906.js",
+    "static/js/787.9ca5aabb.chunk.js": "/card-payment/static/js/787.9ca5aabb.chunk.js",
+    "index.html": "/card-payment/index.html",
+    "main.3995c954.css.map": "/card-payment/static/css/main.3995c954.css.map",
+    "main.751d7906.js.map": "/card-payment/static/js/main.751d7906.js.map",
+    "787.9ca5aabb.chunk.js.map": "/card-payment/static/js/787.9ca5aabb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3995c954.css",
+    "static/js/main.751d7906.js"
+  ]
+}
